@@ -1,4 +1,6 @@
-## Hi there 👋
+## Introducing Myself
+
+My name is Raef and I am a Data Analyst/Scientist for a news and media company. I work with analytical tools and also NLP techniques to gain insights from historical data. Recently on August 2024, I have started to dive deeper into Data Engineering as I find it to be very useful for data acquisition in any data operations.
 
 <!--
 **raefaidid/raefaidid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
