@@ -11,7 +11,7 @@ I'm Raef, a Data Analyst/Scientist at a news and media company, focusing on anal
 
 ### 📚 Projects
 
-Welcome to my portfolio, here is where I showcase my projects.
+Welcome to my portfolio, here is where I showcase my [projects](https://github.com/raefaidid/raefs-portfolio/blob/main/README.md).
 
 ### 🛠️ Tools
 
