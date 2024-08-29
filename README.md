@@ -1,7 +1,30 @@
 ## Introducing Myself
 
-My name is Raef and I am a Data Analyst/Scientist for a news and media company. I work with analytical tools and also NLP techniques to gain insights from historical data. Recently on August 2024, I have started to dive deeper into Data Engineering as I find it to be very useful for data acquisition in any data operations.
+![raef-banner-v2](https://github.com/user-attachments/assets/6c2eef4b-8659-4e0d-b48d-4ce066042ba3)
 
+I'm Raef, a Data Analyst/Scientist at a news and media company, focusing on analytics, NLP for insights from historical data, and recently diving into Data Engineering for better data acquisition skills.
+
+- Develop ETL pipelines
+- Integrate ML/AI techniques to solve business problems
+- Develop dashboards and reports for stakeholders
+- Learn latest cloud technology/product
+
+### 📚 Projects
+
+Welcome to my portfolio, here is where I showcase my projects.
+
+### 🛠️ Tools
+
+- Languages: Python, C++, HTML, CSS, Javascript
+- Databases: OLTP, OLAP, NoSQL
+- Orchestration: Airflow, Mage, Cron
+- Cloud Familiarity: Google Cloud, Amazon Web Services, Microsoft Azure
+
+### Connect with me 👋🏼
+
+- [LinkedIn](https://www.linkedin.com/in/raef-luqman-aidid/)
+- [X/Twitter](https://x.com/raefdd)
+ 
 <!--
 **raefaidid/raefaidid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
