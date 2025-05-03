@@ -2,11 +2,11 @@
 
 ![raef-banner-v2](https://github.com/user-attachments/assets/6c2eef4b-8659-4e0d-b48d-4ce066042ba3)
 
-I'm Raef, a Data Analyst/Scientist at a news and media company, focusing on analytics, NLP for insights from historical data, and recently diving into Data Engineering for better data acquisition skills.
+I'm Raef, a Data Engineer working for a quite-known FMCG company. I've had past experience as a Data Analyst and Scientist. My field of interest would be in ML and software engineering. Recently I've been investing my time and thoughts towards the field of Data Engineering.
 
-- Develop ETL pipelines
-- Integrate ML/AI techniques to solve business problems
-- Develop dashboards and reports for stakeholders
+- Develop data pipelines and ensuring data quality
+- Integrate ML/AI to solve business problems
+- Improving data processing and downstream product efficiency
 - Learn latest cloud technology/product
 
 ### 📚 Projects
@@ -15,10 +15,10 @@ Welcome to my portfolio, here is where I showcase my [projects](https://github.c
 
 ### 🛠️ Tools
 
-- Languages: Python, C++, HTML, CSS, Javascript
+- Languages: Python, Java, C++, HTML & CSS
 - Databases: OLTP, OLAP, NoSQL
 - Orchestration: Airflow, Mage, Cron
-- Cloud Familiarity: Google Cloud, Amazon Web Services, Microsoft Azure
+- Cloud Familiarity: Microsoft Azure, Google Cloud, Amazon Web Services
 
 ### Connect with me 👋🏼
 
