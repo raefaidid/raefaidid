@@ -2,7 +2,7 @@
 
 ![raef-banner-v2](https://github.com/user-attachments/assets/6c2eef4b-8659-4e0d-b48d-4ce066042ba3)
 
-I'm Raef, a Data Engineer working for a quite-known FMCG company. I've had past experience as a Data Analyst and Scientist. My field of interest would be in ML and software engineering. Recently I've been investing my time and thoughts towards the field of Data Engineering.
+I'm Raef, a Data Platform Engineer working for a Omnicom. I've had past experience as a Data Analyst and Scientist. My field of interest would be in ML and software engineering. Recently I've been investing my time and thoughts towards the field of Data Engineering.
 
 - Develop data pipelines and ensuring data quality
 - Integrate ML/AI to solve business problems
